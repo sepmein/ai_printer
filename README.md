@@ -1,7 +1,8 @@
-# Tiger AI Printer
-Artificial intelligence printer, real time image recognition.
+# Super Tiger AI Printer 1.2.1
+## Artificial intelligence printer, **REAL** time image recognition.
 
 >Written by **张春哲** with love.
+>Contact: [sepmein@gmail.com](sepmein@gmail.com)
 
 ## 1. HardWare and Frameworks
 ### 1.1 Realtime image recognition framework
